@@ -9,3 +9,11 @@ Corresponding folding can also be done in the left column. The possible transiti
 in each square of the box there is a non-negative integer. The question is to find what is the maximum sum of numbers that we can have crossing a path, with this logic.
 
 ![example](https://user-images.githubusercontent.com/61728750/235896474-5def3d27-4a7a-4cec-8674-f63534ed8bc7.png)
+
+We will use:
+- Recursive method (maxsumrec.c)
+- Recursice method with memorization (maxsummem.c)
+- Iterative method with dynamic programming (maxsumdp.c)
+
+Extra:
+- Calculation of optimal paths (maxsummempath.c , maxsumdppath.c)
